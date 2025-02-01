@@ -1,7 +1,7 @@
-h1 align="center">Hi 👋, I'm Basharat Ali</h1>
+<h1 align="center">Hi 👋, I'm Basharat Ali</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
-<img align="right" alt="img" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXZMNnZ3Y1NBeHk5WU9VMXlpUy1BcFoyNFROUXxBQ3Jtc0ttSHZzWm9KbnZBTnBSUzNnc1NzODBSTHIwRnFmeWxtcHEwaFpMWEVfZVFnYU9EM3NOemRuUExWZU96di1TcG51Rm5WSm1RVFlCR3FSWXUtODY3ZU9MazA0c19hOHBoTXprMUphNmRVdWstME9WX0syQQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0"/>
+<img align="right" width="400" alt="image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basharatali122&label=Profile%20views&color=0e75b6&style=flat" alt="basharatali122" /> </p>
 
