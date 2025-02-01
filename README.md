@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react js**
 
-- 📫 How to reach me **basharatali.developer.com**
+- 📫 How to reach me **basharatali.developer@gmail.com**
 
 - ⚡ Fun fact **I think i'm boring**
 
