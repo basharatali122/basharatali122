@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basharatali122&label=Profile%20views&color=0e75b6&style=flat" alt="basharatali122" /> </p>
 
-- 🔭 I’m currently working on [Dev Affinity](https://github.com/basharatali122/devAffinity.git)
+- 🔭 I’m currently working on [TechTie](https://github.com/basharatali122/devAffinity.git)
 
 - 🌱 I’m currently learning **Node js**
 
-- 👯 I’m looking to collaborate on [Dev Tinder/Affinity](https://github.com/basharatali122/devTinder.git)
+- 👯 I’m looking to collaborate on [TechTie/devUnion](https://github.com/basharatali122/devTinder.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/basharatali122?tab=repositories](https://github.com/basharatali122?tab=repositories)
 
